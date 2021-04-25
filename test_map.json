@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"test_map.json"
         }
     },
  "height":34,
@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/iswi_office.json#start_second_room"
+                 "value":".\/iswi_office.json#start_second_room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/iswi_office.json"
+                 "value":".\/iswi_office.json"
                 }],
          "type":"tilelayer",
          "visible":true,

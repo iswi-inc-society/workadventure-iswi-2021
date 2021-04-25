@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/Development\/Workadventure\/workadventure-iswi-office-map\/map.json"
+         "target":"iswi_office.json"
         }
     },
  "height":25,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/test_map.json"
+                 "value":".\/test_map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
