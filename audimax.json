@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/2021.iswi.org\/\/workadventure\/audimax\/"
+                 "value":"https:\/\/2021.iswi.org\/workadventure\/audimax"
                 }],
          "type":"tilelayer",
          "visible":true,
