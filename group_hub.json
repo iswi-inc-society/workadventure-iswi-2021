@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/grouproom_environmental_protection"
+                 "value":".\/grouproom_environmental_protection.json"
                 }],
          "type":"tilelayer",
          "visible":true,
