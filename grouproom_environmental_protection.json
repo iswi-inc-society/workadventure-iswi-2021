@@ -27,6 +27,12 @@
          "id":17,
          "name":"exit_hallway",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/group_hub.json#start_env_prot_1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
