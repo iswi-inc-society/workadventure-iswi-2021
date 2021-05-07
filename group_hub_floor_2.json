@@ -307,7 +307,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/group_hub.json"
+                 "value":".\/group_hub.json#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
