@@ -409,7 +409,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/centralhub.json"
+                 "value":".\/centralhub.json#start_group_hub"
                 }],
          "type":"tilelayer",
          "visible":true,
