@@ -527,6 +527,59 @@
         }, 
         {
          "draworder":"topdown",
+         "id":39,
+         "name":"text",
+         "objects":[
+                {
+                 "height":57,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":31,
+                     "text":"Peacebuilding",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":265.375,
+                 "x":224.8125,
+                 "y":137.5
+                }, 
+                {
+                 "height":76,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":31,
+                     "text":"Politics",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":197.375,
+                 "x":506.8125,
+                 "y":141.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -572,8 +625,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":39,
- "nextobjectid":1,
+ "nextlayerid":40,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",

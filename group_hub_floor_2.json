@@ -473,6 +473,184 @@
         }, 
         {
          "draworder":"topdown",
+         "id":38,
+         "name":"text",
+         "objects":[
+                {
+                 "height":161,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":39,
+                     "text":"Gender Equality & LGBTIQ",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":234.375,
+                 "x":233.145833333333,
+                 "y":131.166666666667
+                }, 
+                {
+                 "height":204,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":36,
+                     "text":"Reuse, Reduce, Recycle 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":235.375,
+                 "x":490.8125,
+                 "y":138.5
+                }, 
+                {
+                 "height":94.3333333333333,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "pixelsize":36,
+                     "text":"Economy 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":231.708333333333,
+                 "x":768.479166666667,
+                 "y":142.5
+                }, 
+                {
+                 "height":125.666666666667,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":36,
+                     "text":"Media & Information 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":265.041666666667,
+                 "x":995.8125,
+                 "y":133.833333333333
+                }, 
+                {
+                 "height":111,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":36,
+                     "text":"Education 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":249.041666666667,
+                 "x":1257.8125,
+                 "y":137.166666666667
+                }, 
+                {
+                 "height":53.6666666666667,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":36,
+                     "text":"Technology 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":332.375,
+                 "x":1471.14583333333,
+                 "y":134.5
+                }, 
+                {
+                 "height":104.333333333333,
+                 "id":7,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":36,
+                     "text":"Sustainable Tourism 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":269.708333333333,
+                 "x":1755.14583333333,
+                 "y":134.5
+                }, 
+                {
+                 "height":225.666666666667,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Noto Sans",
+                     "halign":"center",
+                     "pixelsize":36,
+                     "text":"Environmental Protection 2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":269.708333333333,
+                 "x":2015.14583333333,
+                 "y":133.833333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
          "objects":[],
@@ -518,8 +696,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":38,
- "nextobjectid":1,
+ "nextlayerid":39,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
