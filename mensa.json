@@ -680,32 +680,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":8,
-         "firstgid":10,
-         "image":"..\/..\/Downloads\/Modern_Interiors_Free_v2.2\/Modern tiles_Free\/Interiors_free\/16x16\/Room_Builder_free_16x16.png",
-         "imageheight":368,
-         "imagewidth":272,
-         "margin":0,
-         "name":"Basics",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":10,
-         "image":"..\/..\/Downloads\/floor_tiles.png",
-         "imageheight":288,
-         "imagewidth":192,
-         "margin":0,
-         "name":"floor",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":32,
          "firstgid":10,
          "image":"tiles\/Interior.png",
