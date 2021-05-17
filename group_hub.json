@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/grouproom_reuse_reduce_recycle_1.json"
+                 "value":".\/grouproom_rrr_1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
