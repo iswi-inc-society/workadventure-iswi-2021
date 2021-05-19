@@ -469,13 +469,13 @@
         {
          "columns":15,
          "firstgid":5620,
-         "image":"tiles\/sofas_2.png",
+         "image":"tiles\/sofas_3.png",
          "imageheight":640,
          "imagewidth":480,
          "margin":0,
-         "name":"sofas_2",
+         "name":"sofas_3",
          "spacing":0,
-         "tilecount":576,
+         "tilecount":300,
          "tileheight":32,
          "tilewidth":32
         }],
