@@ -1,0 +1,38 @@
+body {
+    background: white url(background_white.png) repeat;
+	margin: 0px;
+}
+#content {
+	background: #55aa99 url(background_blue.png) repeat-x;
+	margin: 40px;
+	border-style: solid;
+	border-color: #eeddbb;
+}
+
+p, h3, a, div {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+	color: #eeffee;
+    text-shadow: -1px 0 #447778, 0 1px #447778, 1px 0 #447778, 0 -1px #447778;
+}
+
+h3 {
+	font-size: 60px;
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+	display: block;
+}
+
+#link {
+	font-size: 50px;
+	margin: 0 auto;
+	margin-top: 10px;
+	width: 500px;
+	height: 469px;
+	background: transparent url(mango.png) no-repeat;
+	background-position: center top 50px;
+}
