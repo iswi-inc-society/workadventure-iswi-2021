@@ -45,6 +45,17 @@
          "id":19,
          "name":"Audio",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":".\/audio\/Dropper_ISWI_5_ENG.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":55,
