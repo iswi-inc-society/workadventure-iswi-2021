@@ -68,6 +68,12 @@
          "id":18,
          "name":"URL",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.iswiradio.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":55,
