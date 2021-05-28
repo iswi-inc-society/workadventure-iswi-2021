@@ -9,7 +9,7 @@ body {
 	border-color: #eeddbb;
 }
 
-p, h3, a, div {
+p, h3, a, d, div {
 	text-align: center;
 	font-family: Helvetica, sans-serif;
 	font-size: 20px;
@@ -17,8 +17,14 @@ p, h3, a, div {
     text-shadow: -1px 0 #447778, 0 1px #447778, 1px 0 #447778, 0 -1px #447778;
 }
 
+d {
+	font-size: 50px;
+	margin: 0px;
+}
+
+
 h3 {
-	font-size: 60px;
+	font-size: 20px;
 	margin: 0px;
 }
 
@@ -27,12 +33,31 @@ a {
 	display: block;
 }
 
-#link {
-	font-size: 50px;
+#link1 {
+	font-size: 2px;
 	margin: 0 auto;
-	margin-top: 10px;
-	width: 500px;
-	height: 469px;
-	background: transparent url(mango.png) no-repeat;
-	background-position: center top 50px;
+	margin-top: 0px;
+	width: 400px;
+	height: 250px;
+	background: transparent url(Mango_hm.png) no-repeat;
+	background-position: center top 0px;
+}
+
+#link2 {
+	font-size: 2px;
+	margin: 0 auto;
+	margin-top: 0px;
+	width: 400px;
+	height: 220px;
+	background: transparent url(Mango_click1.png) no-repeat;
+	background-position: center top 20px;
+}
+#link3 {
+	font-size: 2px;
+	margin: 0 auto;
+	margin-top: 0px;
+	width: 400px;
+	height: 220px;
+	background: transparent url(Mango_click3.png) no-repeat;
+	background-position: center top 0px;
 }
