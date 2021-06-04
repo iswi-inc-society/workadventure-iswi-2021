@@ -712,7 +712,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/channel\/UCQEfzkd6iax1uB_imbZ5WKQ"
+                         "value":".\/sites\/youtube.html"
                         }],
                  "type":"tilelayer",
                  "visible":true,
